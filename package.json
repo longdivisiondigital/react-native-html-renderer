@@ -1,0 +1,15 @@
+{
+  "name": "react-native-html-renderer",
+  "version": "1.0.0",
+  "description": "HTML Renderer for React Native",
+  "main": "index.js",
+  "repository": "https://github.com/longdivisiondigital/react-native-html-renderer.git",
+  "author": "Long Division <info@longdivision.digital>",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "prop-types": "^15.6.2",
+    "react-native": "^0.56.0",
+    "react-native-xml2js": "^1.0.3"
+  }
+}
